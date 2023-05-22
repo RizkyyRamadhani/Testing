@@ -1,0 +1,18 @@
+Skenario Menyukai restaurant:
+
+restaurant belum disukai.
+Widget untuk menyukai restaurant ditampilkan
+Widget menyukai restaurant ditekan oleh pengguna.
+restaurant ditambahkan ke daftar restaurant yang disukai:
+Ternyata restaurant sudah disukai:
+Tidak perlu menyimpan kembali.
+Data restaurant tidak memiliki ID:
+Sistem tidak memproses penyimpanan.
+SIstem tidak gagal.
+Skenario Batal Menyukai restaurant:
+
+restaurant sudah disukai.
+Widget untuk batal menyukai restaurant ditampilkan.
+Widget pembatalan ditekan oleh pengguna.
+restaurant dihapus dari daftar restaurant yang disukai:
+Ternyata restaurant tidak ada dalam daftar restaurant yang disukai.
